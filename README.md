@@ -24,6 +24,7 @@ A [Termux] plugin app allowing `Termux` commands to be executed from [Tasker] an
 
 
 
+
 ### Installation
 
 Latest version is `v0.6.0`.
